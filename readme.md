@@ -22,6 +22,6 @@ The project is inspired by Andrej Karparthy's Makemoore model, so do check it ou
 #### Results
 The output is a Pandas DataFrame comparing the output of the three architectures
 
-![[namesdf.png]]
+![alt text](assets/namesdf.png)
 
 Thank you! Feel free to give your valueable suggestions or if any issues found.

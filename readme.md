@@ -6,7 +6,7 @@ The project is inspired by Andrej Karparthy's Makemoore model, so do check it ou
 
 ## Features
 
-- distinct implementations of Vanilla RNN, LSTM, and GRU.
+- Distinct implementations of Vanilla RNN, LSTM, and GRU.
 - Character-Level Generation: The models learn the probability of the next character in a sequence to generate new names.
 
 ## Project Structure
@@ -25,4 +25,5 @@ The output is a Pandas DataFrame comparing the output of the three architectures
 ![alt text](namesdf.png)
 
 Thank you! Feel free to give your valueable suggestions or if any issues found.
+
 
